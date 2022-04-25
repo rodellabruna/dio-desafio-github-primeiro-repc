@@ -1,0 +1,27 @@
+Introdução ao Scrum
+
+O Scrum é uma estrutura que ajuda as equipes a trabalharem juntas. 
+Semelhante a uma equipe de rugby (de onde vem o nome) treinando para o grande jogo, 
+o Scrum estimula as equipes a aprenderem com as experiências, 
+a se organizarem enquanto resolvem um problema e a refletirem sobre os êxitos 
+e fracassos para melhorarem sempre.
+
+Termos técnicos do Scrum
+
+- Sprints: é o nome dado para os ciclos de cada projeto. Em geral são ciclos mensais e são determinados para que as tarefas sejam realizadas.
+
+- Product Backlog: é o nome dado para o conjunto de objetivos de um projeto. No caso de um projeto de desenvolvimento de software (para o qual o Scrum foi pensado inicialmente), é o nome dado ao pacote de funcionalidades a serem desenvolvidas em um projeto.
+
+- Sprint Planning Meeting: são reuniões periódicas que acontecem no início de cada sprint, ou ciclo, para planejar e priorizar os itens do Product Backlog que serão desenvolvidos naquele período.
+
+- Sprint Backlog: é como se chamam as tarefas específicas que serão realizadas e desenvolvidas em cada ciclo, ou sprint.
+
+- Daily Scrum: essa é uma reunião diária para acompanhamento do projeto. A ideia é que toda a equipe se reúna diariamente para discutir as atividades desenvolvidas, disseminar conhecimento, identificar impedimentos e priorizar o trabalho daquele dia. Um ponto interessante é que o Scrum propõe que estas reuniões sejam realizadas com os participantes em pé, exatamente para serem rápidas e objetivas.
+
+- Sprint Review Meeting: essa é a reunião que acontece ao final de cada sprint para que a equipe apresente o que foi realizado e os resultados do trabalho daquele ciclo. A ideia é que depois dessa etapa, todos sigam para o próximo ciclo.
+
+Alguns dos elementos que fazem parte do processo do Scrum são:
+
+- Product owner: é o dono do produto ou projeto que vai ser trabalhado, sendo responsável pela direção a seguir, definindo quais requisitos vão fazer parte do product backlog e quais devem ser abordados pela equipe. Representa os usuários ou clientes do produto em questão;
+- Scrum Master: é o elemento que faz a ligação entre o product owner e a equipe. Tem a responsabilidade de organizar reuniões, fazer o acompanhamento do trabalho e se certificar que cada integrante da equipe tem as ferramentas necessárias para cumprir a sua função da melhor maneira possível.
+- Team (equipe): É a equipe que trabalha para o desenvolvimento do projeto ou produto.
