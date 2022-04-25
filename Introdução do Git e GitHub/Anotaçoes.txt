@@ -1,1 +1,14 @@
 Por enquanto, só um teste.
+
+
+Comandos importantes:
+
+git clone
+
+git status
+git add -a      /-A
+git commit -m "FAZER O COMENTARIO SOBRE A ATERAÇÃO"
+git push origin main
+
+
+
