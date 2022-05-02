@@ -12,3 +12,18 @@ git push origin main
 
 
 
+Para uma pasta nova: lembrar de usar o git init dentro da pasta, com o repositório já criado no github
+git remote add origin endereço (git@github....)
+
+git add . (ponto é a pasta atual)
+git commit (...)
+
+==> git branch -M master ou main se quiser renomear quem é o "dono"
+
+git push (...)
+
+git status
+
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
+
